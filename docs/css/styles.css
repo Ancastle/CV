@@ -1,0 +1,205 @@
+body {
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+#title {
+    background-color: #003891;
+    color: white;
+}
+#titleh1 {
+    font-family: 'Montserrat';
+    size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+.container-fluid {
+    padding: 3% 15%;
+}
+/* Images */
+.jorgeimg {
+    max-height: 500px;
+}
+
+/* Navigation Bar */
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+.navbar {
+    padding-bottom: 4.5rem;
+    background-color: #003891;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.4rem;
+}
+
+/* Download Buttons */
+
+.download-btn {
+    margin: 5% 3% 5% 0;
+}
+
+/* Profile */
+
+#profile{
+    color: #003891
+}
+
+.profile-container {
+    margin: 10% auto;
+    text-align: center
+
+}
+.profile-section{
+    display: inline-block;
+    text-align: justify;
+    margin: 2%;
+    max-width: 25%;
+}
+.linkedin{
+    background-color: #007BB6;
+}
+.featicon {
+    color: #003891;
+    margin-bottom: 1rem ;
+}
+
+/* Experiences */
+
+#exp {
+    text-align: center;
+    background-color: #003891;
+    color: #fff;
+}
+.experiences-h1{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+    padding-top: 5%;
+}
+.experiences-h2{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+.experiences-h3{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 2rem;
+    line-height: 1.5;
+}
+.experiences-h4{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 1.7rem;
+    line-height: 1.5;
+}
+.experiences-h5{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-top: 5%;
+}
+.experiences-h6{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.experience-image {
+    margin-top: 5%;
+   max-height: 150px;
+}
+.experience-image-prov {
+    margin-top: 5%;
+    max-height: 150px;
+    border-radius: 100%;
+}
+.education-summary {
+    margin-top: 3%;
+}
+.img-container{
+    display: block;
+}
+.tasks{
+    text-align: start;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/* Abilities */
+
+.card-header {
+    font-weight: 900;
+}
+.card-league {
+    font-size: 1.4rem;
+}
+.price-h2{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 1.3rem;
+}
+#abilities {
+    padding: 7% 15%;
+    text-align: center;
+    color: #003891;
+}
+
+
+/* Languages */
+
+#lang { 
+    background-color: #003891;
+    text-align: center;
+    padding: 7% 15%;
+    color: #fff;
+}
+
+/* Projects */
+
+#projects { 
+    background-color: white;
+    text-align: center;
+    padding: 7% 15%;
+    color: #003891;
+}
+.btn-project{
+    margin-bottom: 3%;
+    background-color: #003891;
+}
+.first{
+    margin-top: 5%;
+}
+.control /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+
+/* contact */
+#contact {
+    background-color: #003891;
+    text-align: center;
+    padding: 3% 15%;
+    color: #fff;
+}
+.social-icon {
+    margin: 20px 10px;
+}
+.social-link{
+    color: #fff;
+}
+
+
